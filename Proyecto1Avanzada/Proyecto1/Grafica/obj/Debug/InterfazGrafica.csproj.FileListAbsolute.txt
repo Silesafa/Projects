@@ -1,0 +1,18 @@
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Grafica\bin\Debug\Grafica.exe.config
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Grafica\bin\Debug\Grafica.exe
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Grafica\bin\Debug\Grafica.pdb
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\InterfazGrafica.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\Grafica.Properties.Resources.resources
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\InterfazGrafica.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\Grafica.exe
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\Grafica.pdb
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\InterfazGrafica.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\Grafica.exe.config
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\Grafica.Menu.resources
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\Grafica.Properties.Resources.resources
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\Grafica.RegistrarTipoVideojuego.resources
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\InterfazGrafica.csproj.GenerateResource.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\InterfazGrafica.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\Grafica.exe
+C:\Users\siles\Desktop\Progra Avanzada\Proyecto1Avanzada\Proyecto1\Grafica\obj\Debug\Grafica.pdb

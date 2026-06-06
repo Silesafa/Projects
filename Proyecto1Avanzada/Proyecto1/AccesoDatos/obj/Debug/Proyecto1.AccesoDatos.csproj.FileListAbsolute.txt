@@ -1,0 +1,2 @@
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\AccesoDatos\obj\Debug\Proyecto1.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\AccesoDatos\obj\Debug\Proyecto1.AccesoDatos.csproj.CoreCompileInputs.cache

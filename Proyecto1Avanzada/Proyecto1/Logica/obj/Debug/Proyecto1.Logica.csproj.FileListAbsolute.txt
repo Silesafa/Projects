@@ -1,0 +1,6 @@
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Logica\bin\Debug\Logica.dll
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Logica\bin\Debug\Logica.pdb
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Logica\obj\Debug\Proyecto1.Logica.csproj.AssemblyReference.cache
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Logica\obj\Debug\Proyecto1.Logica.csproj.CoreCompileInputs.cache
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Logica\obj\Debug\Logica.dll
+C:\Users\siles\Desktop\Proyecto1Avanzada\Proyecto1\Logica\obj\Debug\Logica.pdb
