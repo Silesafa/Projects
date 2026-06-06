@@ -1,2 +1,2 @@
-# Proyects
-Here some proyects performed 
+# Projects
+Here some projects performed 
